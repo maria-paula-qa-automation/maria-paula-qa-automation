@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy [Tu Nombre] 👋
 
-<!--
-**maria-paula-qa-automation/maria-paula-qa-automation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Automation Engineer
 
-Here are some ideas to get you started:
+### Sobre mí
+- Apasionado por la automatización de pruebas
+- Especializado en Playwright + TypeScript
+- Experiencia en API Testing + Web Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades
+- **Frameworks**: Playwright, Selenium
+- **Lenguajes**: TypeScript, JavaScript
+- **Herramientas**: Git, GitHub, Postman, VS Code
+
+### Proyectos destacados
+- [Suite de Tests Web](url-del-repo)
+- [API Automation Framework](url-del-repo)
+
+### Contáctame
+- LinkedIn: [tu-linkedin]
+- Email: tu@email.com
